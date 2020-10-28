@@ -1,0 +1,82 @@
+body {
+  text-align: center;
+  background-color: #d9d9d9;
+margin-top: 20px;
+}
+
+div[class^="box"] {
+  width: 150px;
+  height: 120px;
+  /*border:1px solid;*/
+  display: inline-block;
+text-align: center;
+}
+
+button {
+  background-color: #668cff;
+
+  color: white;
+  padding: 10px 22px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.center {
+  margin: auto;
+  width: 60%;
+  border: 3px solid black;
+  padding: 10px 20px;
+}
+
+.bgColor {
+  background-color: lightblue;
+  border: 1px solid;
+}
+
+.number {
+  display: inline;
+}
+
+.box p {
+  line-height: 6;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.div1 {
+  background-color: Orange;
+}
+
+.div2 {
+  background-color: Yellow;
+}
+
+.div3 {
+  background-color: lightblue;
+}
+
+.div4 {
+  background-color: gray;
+}
+
+.div5 {
+  background-color: pink;
+}
+
+.div6 {
+  background-color: green;
+}
+
+.div7 {
+  background-color: blue;
+}
+
+.div8 {
+  background-color: white;
+}
+
+.div9 {
+  background-color: red;
+}
